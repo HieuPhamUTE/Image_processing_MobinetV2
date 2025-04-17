@@ -42,3 +42,6 @@ These metrics provide insights into the precision, recall, and F1-score of the m
 
 9. Saving the Final Model
 Save the final trained model to a file for future use or deployment.
+
+Link dataset: https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection
+https://www.kaggle.com/datasets/shiekhburhan/face-mask-dataset
