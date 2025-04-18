@@ -2,7 +2,7 @@
 
 Face Mask Detection Project using MobileNetV2
 Author: Pham Ngoc Hieu + Nguyen Nhat Phap - HCMUTE
-
+Link drive: https://drive.google.com/file/d/1ddzImERhSIGFIpvTXY7xcrDxGXUKDRv5/view?usp=drive_link
 Description: This project implements a face mask detection model using MobileNetV2 with transfer learning.
 
 The project includes data preprocessing, model training, evaluation and testing on new images.
