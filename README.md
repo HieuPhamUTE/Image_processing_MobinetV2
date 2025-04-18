@@ -46,3 +46,5 @@ Save the final trained model to a file for future use or deployment.
 Link dataset: 
 1. https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection
 2. https://www.kaggle.com/datasets/shiekhburhan/face-mask-dataset
+
+LINK REFERENCE RESEARCH PAPER: https://link.springer.com/article/10.1007/s42979-023-01738-9
